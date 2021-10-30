@@ -10,8 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 Provide a link to your GitHub account here.
 https://github.com/teefisher2k20
 ### LinkedIn
-
-Provide a link to your LinkedIn account here. linkedin.com/in/terrance-fisher-8654b0205
+linkedin.com/in/teefisher314 Provide a link to your LinkedIn account here.
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 https://docs.google.com/document/d/17luSJ7aSGJsDT_8Q_b-7ILtW26MVRHLWmKv0j2FYd8c/edit?usp=sharing

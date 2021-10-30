@@ -12,24 +12,22 @@ unsure about some aspects of the outline or if you have to change some things la
 
 ### Overview
 
-We live in a virtual world and COVID-19 has reshaped how we traditionally do things in our everyday lives. Banks have
-evolved into online banking, our favorite restaurants deliver to our homes (via GrubHub, Uber Eats etc.). Just about
-anything we desire can be ordered and delivered to us from the Amazon app within 24 hours, doctors have even caught on
-to this new wave of convenience by doing appointments via Zoom. I'm creating a secure and remote prototype to register
-customers for future events. It'll store information in the SQL database.
+I'm creating a secure, remote Student Management System that will allow the admin to add, erase, and update students to
+keep track of the courses they've completed towards their certificate of completion.
 
 ### Features
 
-Registration: Users will be able to create accounts. User: Will have options for making user information updates.
-Delete: User will be able to delete customers.
+Users will be able to create accounts, store students into a Mysql database, update information if needed, delete/reset
+students.
 
 ### Technologies
 
-SpringBoot, Thymeleaf, SQL, Java, Hibernate
+SQL, Java
 
 ### What I'll Have to Learn
 
-To complete from start to finish.
+How to Create School Management System with MySQL Database in Java NetBeans. Create frame, add an editable JTable,
+JButton, Label Widget, JTextField, JComboBox, and create and call Java Functions within Functions.
 
 ### Project Tracker
 

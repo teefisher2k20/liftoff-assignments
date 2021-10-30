@@ -7,6 +7,8 @@ You interviewer will be grading your ability to answer questions completely, sta
 [Mock Interview Assignment](https://education.launchcode.org/liftoff/assignments/mock-interview/)
 
 ## Submission Instructions
-You are not required to submit anything via GitHub, but you are responsbile for ensuring your grade is recorded correctly. Check your grade in Canvas after completing this assignment.
+You are not required to submit anything via GitHub, but you are responsible for ensuring your grade is recorded
+correctly. Check your grade in Canvas after completing this assignment.
 
-This assignment can be attempted multiple times. If you would like to make another attempt at a Mock Interview talk to the Candidate Engagement Manager assigned to your course.
+This assignment can be attempted multiple times. If you would like to make another attempt at a Mock Interview talk to
+the Candidate Engagement Manager assigned to your course.

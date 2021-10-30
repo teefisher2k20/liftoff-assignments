@@ -16,5 +16,5 @@ Include a link to your public Trello board. Be sure you have user stories added 
 
 ### Project Repo Link
 
-https://github.com/teefisher2k20/project-liftoff.git
+https://github.com/teefisher2k20/SchoolManagementSystem.git
 Include a link to your project on GitHub.
